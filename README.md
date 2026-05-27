@@ -19,10 +19,14 @@
 
   <h1>👋 Hi, I'm Fisssssh</h1>
   <p>太原理工大学 25 届 · AI Agent 工程 · 渗透测试</p>
+  <p>
+    <a href="https://x.com/fisssssh1977">𝕏 @fisssssh1977</a> ·
+    <a href="https://fisssssh.top/">fisssssh.top</a>
+  </p>
 
   <div>
     <a href="https://github.com/ShanEior"><img src="https://img.shields.io/badge/GitHub-ShanEior-black?logo=github" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=ShanEior&label=Views&color=orange&style=flat" alt="访问量统计" />
+    <img src="https://img.shields.io/badge/Views-2588-orange?style=flat" alt="访问量统计" />
   </div>
 
 </div>
