@@ -57,11 +57,11 @@
 
 ## 🚀 项目
 
-* 🛡️ **[prompt-shield](https://github.com/ColCut/prompt-shield)** —— LLM 防火墙，Prompt Injection 检测引擎，守护 AI Agent 输入边界。
 * 🐝 **[codestyle](https://github.com/ShanEior/codestyle)** —— 码蜂：企业级代码知识库，"官网在线制模 + MCP 插件检索"让 AI 精准理解团队代码基因。
 * 🔌 **[mcp-codestyle-server](https://github.com/ShanEior/mcp-codestyle-server)** —— 基于 Spring AI 的 MCP 服务器，为 IDE 和 AI Agent 提供代码模板语义检索。
 * 🔌 **[Wire](https://github.com/ShanEior/Wire)** —— 线缆点位测试表转换引擎，Flask + Vue 3 全栈桌面工具。
 * 🎵 **[FishMusic](https://github.com/ShanEior/FishMusic)** —— 跨平台桌面音乐播放器，TypeScript + 现代前端技术构建。
+* 🛡️ **[prompt-shield](https://github.com/ColCut/prompt-shield)** —— LLM 防火墙，Prompt Injection 检测引擎，守护 AI Agent 输入边界。
 * 🤖 **[youmu-bot](https://github.com/ShanEior/youmu-bot)** —— 从零搭建的 AI 微信机器人，含完整开发教程。
 * 🌐 **[ShanEior.github.io](https://github.com/ShanEior/ShanEior.github.io)** —— 个人博客 / 主页。
 
